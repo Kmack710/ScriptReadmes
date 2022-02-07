@@ -155,7 +155,7 @@ ENGINE=InnoDB
 ###--- I DIDNT CHANGE qb- HERE SO IF YOU CHANGE YOUR NAMES CHANGE THEM BEFORE YOU COPY PASTA 
 ###--- Simple banking option below okok option 
 
-#OPTIONAL  
+##OPTIONAL  
 ###OKOK NOTIFY 
 ```lua 
 loans = {
